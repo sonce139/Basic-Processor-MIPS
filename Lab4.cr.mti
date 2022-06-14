@@ -1,0 +1,85 @@
+D:/CE213_VerilogHDL/ThucHanh/Lab4/SignExtend.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/SignExtend.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/add.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/add.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/testbenchLab4.v {1 {vlog -work work {D:\CE213_VerilogHDL\ThucHanh\Lab4\testbenchLab4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tesbenchLab4
+
+Top level modules:
+	tesbenchLab4
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/Lab4.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/Lab4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Lab4
+
+Top level modules:
+	Lab4
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/PC.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/mux2.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/mux2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/Datapath.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/Datapath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/IMEM.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/IMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/Control.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/Control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/ALU.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/DMEM.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/DMEM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} D:/CE213_VerilogHDL/ThucHanh/Lab4/RegFile.v {1 {vlog -work work D:/CE213_VerilogHDL/ThucHanh/Lab4/RegFile.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}}
